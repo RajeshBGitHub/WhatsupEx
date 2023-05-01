@@ -7,3 +7,7 @@ Whats Up
 3.Calls
 
 4.camera
+
+5.Search option
+
+6.Settings option
