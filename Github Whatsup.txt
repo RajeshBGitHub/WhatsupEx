@@ -5,3 +5,5 @@ Whats Up
 2.Status
 
 3.Calls
+
+4.camera
